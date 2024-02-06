@@ -1,0 +1,16 @@
+
+*/CMakeFiles
+*/cmake_install.cmake
+*/CMakeCache.txt
+*/homework1_exe
+*/Makefile
+*/*.vcxproj
+*/*.vcxproj.filters
+*/*.vcxproj.user
+*/*.sln
+*/Debug
+*/Release
+*/x64
+*/.vs
+*/*.dir
+dependencies
