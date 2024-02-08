@@ -1,0 +1,8 @@
+# Blender v3.6.5 OBJ File: 'Shuttlecock.blend'
+# www.blender.org
+mtllib Shuttlecock.mtl
+o cork_Cube
+v -0.015497 -0.027195 -0.009733
+v -0.027032 -0.034383 -0.007309
+v -0.015497 -0.027195 0.009733
+v -0.027032 -0.034383 0.007309
